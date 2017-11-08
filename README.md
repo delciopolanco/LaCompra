@@ -10,7 +10,7 @@ Clone This repository
 
 After cloning this repository please do the following **steps!**
 
-> **run the app:**
+> **Setup:**
 
 > - go to naviescript page and following their steps: https://docs.nativescript.org/start/quick-setup.
 > - npm install .
